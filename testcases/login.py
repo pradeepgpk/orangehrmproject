@@ -51,7 +51,7 @@ class Test_1:
     federal_income_tax = 10
     state_income_tax = 14
     supervisors_name = "Peter"
-    subordinate_name = "Cecil"
+    subordinate_name = "Paul"
     company = "tcs"
     jobtitle = "PA"
     fromdate = "2015-10-3"
@@ -78,7 +78,7 @@ class Test_1:
         self.driver = setup
         self.driver.maximize_window()
         self.driver.get(self.baseurl)
-        self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(20)
         loginPageObj = login(self.driver)
         loginPageObj.setlogin(self.username,self.password)
         self.logger.info("***************** Login successful *****************")
@@ -110,7 +110,7 @@ class Test_1:
         loginPageObj.qualification_skills(self.yearofexp,self.sklcomments)
         self.logger.info("***************** Adding skills details *****************")
         loginPageObj.qualification_language(self.langu_save_xpath)
-        self.logger.info("***************** Adding lanquage details *****************")
+        self.logger.info("***************** Adding language details *****************")
         loginPageObj.qualification_license(self.licenseno,self.issueddate,self.expirydate)
         self.logger.info("***************** Adding license details *****************")
         self.driver.execute_script("window.scrollBy(0,-1000)", "")
@@ -126,13 +126,11 @@ class Test_1:
         else:
             self.logger.info("***************** customer not added *****************")
             assert False
+        self.logger.info("***************** logout from old customer *****************")
         loginPageObj.logout()
-    def test_new_customer_login(self,setup):
+
         self.logger.info("***************** Login new customer *****************")
-        self.driver = setup
-        self.driver.maximize_window()
-        self.driver.get(self.baseurl)
-        self.driver.implicitly_wait(10)
+
         newloginPageObj = login(self.driver)
         newloginPageObj.setlogin(self.newusername, self.newpassword)
         self.logger.info("***************** successfully login new customer *****************")

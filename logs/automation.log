@@ -1,36 +1,25 @@
-09/17/2022 05:53:24 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:53:25 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:53:26 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:53:33 PM :INFO : root :***************** Login successful *****************
-09/17/2022 05:53:41 PM :INFO : root :***************** Add New Customer *****************
-09/17/2022 05:53:56 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:53:56 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:53:58 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:53:59 PM :INFO : root :***************** Login new customer *****************
-09/17/2022 05:55:02 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:55:02 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:55:03 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:55:16 PM :INFO : root :***************** Login successful *****************
-09/17/2022 05:55:23 PM :INFO : root :***************** Add New Customer *****************
-09/17/2022 05:55:27 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:55:28 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:55:29 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:55:30 PM :INFO : root :***************** Login new customer *****************
-09/17/2022 05:56:01 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:56:02 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:56:03 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:56:18 PM :INFO : root :***************** Login successful *****************
-09/17/2022 05:56:25 PM :INFO : root :***************** Add New Customer *****************
-09/17/2022 05:56:41 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:56:41 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:56:42 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:56:43 PM :INFO : root :***************** Login new customer *****************
-09/17/2022 05:57:39 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:57:40 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:57:41 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:58:02 PM :INFO : root :***************** Login successful *****************
-09/17/2022 05:58:16 PM :INFO : root :***************** Add New Customer *****************
-09/17/2022 05:58:32 PM :INFO : WDM :====== WebDriver manager ======
-09/17/2022 05:58:32 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-09/17/2022 05:58:35 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-09/17/2022 05:58:36 PM :INFO : root :***************** Login new customer *****************
+09/19/2022 01:37:46 PM :INFO : WDM :====== WebDriver manager ======
+09/19/2022 01:37:47 PM :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
+09/19/2022 01:37:48 PM :INFO : WDM :Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/19/2022 01:37:58 PM :INFO : root :***************** Login successful *****************
+09/19/2022 01:38:03 PM :INFO : root :***************** Add New Customer *****************
+09/19/2022 01:38:09 PM :INFO : root :***************** Adding personal details *****************
+09/19/2022 01:38:15 PM :INFO : root :***************** Adding contect details *****************
+09/19/2022 01:38:18 PM :INFO : root :***************** Adding emergency contect details *****************
+09/19/2022 01:38:19 PM :INFO : root :***************** Adding dependent details *****************
+09/19/2022 01:38:22 PM :INFO : root :***************** Adding immigration details *****************
+09/19/2022 01:38:27 PM :INFO : root :***************** Adding job details *****************
+09/19/2022 01:38:30 PM :INFO : root :***************** Adding salary details *****************
+09/19/2022 01:38:33 PM :INFO : root :***************** Adding tax details *****************
+09/19/2022 01:38:40 PM :INFO : root :***************** Adding report details *****************
+09/19/2022 01:38:42 PM :INFO : root :***************** Adding qualification work experience details *****************
+09/19/2022 01:38:53 PM :INFO : root :***************** Adding education details *****************
+09/19/2022 01:39:00 PM :INFO : root :***************** Adding skills details *****************
+09/19/2022 01:39:04 PM :INFO : root :***************** Adding language details *****************
+09/19/2022 01:39:08 PM :INFO : root :***************** Adding license details *****************
+09/19/2022 01:39:13 PM :INFO : root :***************** Adding Memberships details *****************
+09/19/2022 01:39:26 PM :INFO : root :***************** Adding add new user details *****************
+09/19/2022 01:39:26 PM :INFO : root :***************** customer successfully added *****************
+09/19/2022 01:39:26 PM :INFO : root :***************** logout from old customer *****************
+09/19/2022 01:39:27 PM :INFO : root :***************** Login new customer *****************
+09/19/2022 01:39:28 PM :INFO : root :***************** successfully login new customer *****************
